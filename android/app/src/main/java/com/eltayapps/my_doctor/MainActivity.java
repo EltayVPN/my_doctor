@@ -1,4 +1,4 @@
-package com.eltayapps.my_doctor.my_doctor;
+package com.eltayapps.my_doctor;
 
 import io.flutter.embedding.android.FlutterActivity;
 
